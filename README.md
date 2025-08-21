@@ -1,1 +1,1 @@
-"# U2-typescript-maximiliano_traghetti" 
+# U2-typescript-maximiliano_traghetti
